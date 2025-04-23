@@ -19,7 +19,7 @@ F* requirement that all functions to terminate. Therefore, I modifed the `While`
 | While : bexp -> command -> nat -> command
 ```
 
-## ✅ Proven Correctness
+## Proven Correctness
 
 This repository includes formal F★ proofs of the following two key lemmas:
 
@@ -43,8 +43,7 @@ To proof-check the code:
 
 ### 1. Download and Install F★
 
-Follow the instructions here:  
-👉 [https://www.fstar-lang.org](https://www.fstar-lang.org)
+Follow the instructions at the F* install guide [https://www.fstar-lang.org](https://www.fstar-lang.org)
 
 You will also need [Z3](https://github.com/Z3Prover/z3) (version ≥ 4.8.5) in your path.  
 
