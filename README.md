@@ -43,7 +43,7 @@ To proof-check the code:
 
 ### 1. Download and Install F★
 
-Follow the instructions at the Fstar install page [https://www.fstar-lang.org](https://www.fstar-lang.org)
+Follow the instructions at the F* install guide [https://www.fstar-lang.org](https://www.fstar-lang.org)
 
 You will also need [Z3](https://github.com/Z3Prover/z3) (version ≥ 4.8.5) in your path.  
 
